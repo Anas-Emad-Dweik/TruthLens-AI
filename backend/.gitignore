@@ -1,0 +1,258 @@
+# =============================================================================
+# TruthLens Backend - Python FastAPI Project
+# =============================================================================
+
+# =============================================================================
+# Python
+# =============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =============================================================================
+# Package Managers & Dependencies
+# =============================================================================
+# Poetry
+poetry.lock
+poetry.toml
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pipenv
+#Pipfile.lock
+
+# pdm
+#pdm.lock
+.pdm.toml
+__pypackages__/
+
+# uv
+uv.lock
+
+# =============================================================================
+# Environment Variables & Configuration
+# =============================================================================
+.env
+.env.local
+.env.*.local
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# =============================================================================
+# Testing & Coverage
+# =============================================================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# =============================================================================
+# Documentation
+# =============================================================================
+# Sphinx documentation
+docs/_build/
+/site
+
+# =============================================================================
+# Database Files
+# =============================================================================
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+db.sqlite3
+db.sqlite3-journal
+
+# MongoDB dumps
+*.bson
+dump/
+
+# =============================================================================
+# Logs & Runtime Files
+# =============================================================================
+*.log
+logs/
+log/
+*.pid
+*.seed
+*.pid.lock
+
+# =============================================================================
+# FastAPI & Web Framework Specific
+# =============================================================================
+# Static files (if using FastAPI static file serving)
+static/
+media/
+
+# Session files
+sessions/
+
+# Cache files
+.cache/
+cache/
+
+# =============================================================================
+# Development Tools
+# =============================================================================
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# =============================================================================
+# Type Checkers & Linters
+# =============================================================================
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# ruff
+.ruff_cache/
+
+# LSP config files
+pyrightconfig.json
+
+# =============================================================================
+# Build Tools
+# =============================================================================
+# PyInstaller
+*.manifest
+*.spec
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Cython
+cython_debug/
+
+# SageMath
+*.sage.py
+
+# =============================================================================
+# Temporary & System Files
+# =============================================================================
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# =============================================================================
+# Project Specific
+# =============================================================================
+# Output directories
+output/
+outputs/
+temp/
+tmp/
+
+# Data files (uncomment if you don't want to track large data files)
+# *.csv
+# *.json
+# *.parquet
+# *.pkl
+# *.pickle
+
+# Model files
+*.model
+*.pkl
+*.joblib
+
+# API keys and secrets (additional safety)
+secrets/
+keys/
+credentials/
+
+# Local configuration overrides
+config.local.py
+settings.local.py
+
+# =============================================================================
+# Docker (if used)
+# =============================================================================
+# Uncomment if using Docker
+# .dockerignore
+# docker-compose.override.yml
+
+# =============================================================================
+# Celery (if used for background tasks)
+# =============================================================================
+celerybeat-schedule
+celerybeat.pid
+
+# =============================================================================
+# Translation files
+# =============================================================================
+*.mo
+*.pot
