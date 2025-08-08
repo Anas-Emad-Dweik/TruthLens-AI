@@ -2,6 +2,10 @@
 
 An Advanced Fake News Detection system packaged as a browser app.
 
+## Video
+### part : https://www.loom.com/share/ca4623cbb2534ac5a1d35f8bc0e2b628?sid=ed13a178-4bf8-4e2a-8b82-1dcdf8169a67
+
+
 ## Setup and Execution
 
 ### Prerequisites
