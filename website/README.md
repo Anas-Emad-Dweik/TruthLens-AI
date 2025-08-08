@@ -1,5 +1,9 @@
 # TruthLens AI - Fact-Checking Platform
 
+## Video
+### part : https://www.loom.com/share/ca4623cbb2534ac5a1d35f8bc0e2b628?sid=ed13a178-4bf8-4e2a-8b82-1dcdf8169a67
+
+
 [![Next.js](https://img.shields.io/badge/Next.js-15.4.5-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.3.1-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
@@ -227,6 +231,3 @@ The project follows:
 <div align="center">
 
 ---
-
-## Video
-### part : https://www.loom.com/share/ca4623cbb2534ac5a1d35f8bc0e2b628?sid=ed13a178-4bf8-4e2a-8b82-1dcdf8169a67
